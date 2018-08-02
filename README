@@ -7,3 +7,46 @@
 ** Merchant App
 ** Hotel App
 
+## Inspiration
+"Hajji Smart Solution" Unique ID to solve Crowd Management, live tracking and facilitate Easy payments.
+
+## What it does
+Hajji smart solution is an intelligent fast identification system using NFC “Extendable platforms”. No need for high-tech knowledge from Hajji Side to be identified and also buy whatever he wants. No more cash loss, no more worried about being lost. Hajji can easily now make all the payments and reservations using the NFC secured wrest band. Hajji unique ID will be connected on the cloud with all of his medical history, passport data, accommodation and Emergency contacts and then Hajji will be easily identified using the NFC from Officers, organizers and from Hajji’s for Emergency request (Emergency personnel now can access all the important medical data in seconds). Easy check-in will be applied by the hotels for faster process.
+
+Hajji Smart solution is a simple solution that uses low-cost RF receivers fixed on the light columns (No need for extra infrastructure) that enables us to have a live tracking and counting for Hajji’s, determine the congestion point and feedback organizers and officers for the immediate actions from the supervision room. And unlike the GPS system, Hajji Systems can work perfectly indoor. So, we can easily monitor the indoor rituals like Al-Safaa and Al-Marwa. Now we are having big data set about about Hajji Behavior and human behavior in extreme crowd areas that researchers can get maximum benefits and analysis on it. Using Hajji Solution we can reward Hajjis for waste collection and submission to our stations by adding points to be replaced with credits/rewards. Also it’ll help officers in identifying irregular pilgrims that is not wearing the bracelets.  
+
+No need for the seller to purchase or prepare and IT infrastructure to proceed with a smart payments, only using the simple and secured Hajji mobile app, he can transfer the amount to his online wallet and also he can charge Hajji smart wallets as well.
+
+## How we built it
+Combining many tools and API's to complete the basic demo, we've used: Google Bigquerry - Android - Python - NFC - GIT - Bitbucket - Adobe Illustrator - Google Cloud - Tray.io
+
+## Challenges we ran into
+Idea developing was the main challenge. It's hard to make a simple low-cost system that doesn't depend on pilgrams technology knowledge level and also collects a big data that may be used by researchers for better enhancements.
+
+## Accomplishments that we're proud of
+Using the same simple solution, we will be able to solve more than one problem using the same infrastructure.
+
+## What's next for A121 - Hajji Smart Solution 
+Finalizing the DEMO 
+## Inspiration
+"Hajji Smart Solution" Unique ID to solve Crowd Management, live tracking and facilitate Easy payments.
+
+## What it does
+Hajji smart solution is an intelligent fast identification system using NFC “Extendable platforms”. No need for high-tech knowledge from Hajji Side to be identified and also buy whatever he wants. No more cash loss, no more worried about being lost. Hajji can easily now make all the payments and reservations using the NFC secured wrest band. Hajji unique ID will be connected on the cloud with all of his medical history, passport data, accommodation and Emergency contacts and then Hajji will be easily identified using the NFC from Officers, organizers and from Hajji’s for Emergency request (Emergency personnel now can access all the important medical data in seconds). Easy check-in will be applied by the hotels for faster process.
+
+Hajji Smart solution is a simple solution that uses low-cost RF receivers fixed on the light columns (No need for extra infrastructure) that enables us to have a live tracking and counting for Hajji’s, determine the congestion point and feedback organizers and officers for the immediate actions from the supervision room. And unlike the GPS system, Hajji Systems can work perfectly indoor. So, we can easily monitor the indoor rituals like Al-Safaa and Al-Marwa. Now we are having big data set about about Hajji Behavior and human behavior in extreme crowd areas that researchers can get maximum benefits and analysis on it. Using Hajji Solution we can reward Hajjis for waste collection and submission to our stations by adding points to be replaced with credits/rewards. Also it’ll help officers in identifying irregular pilgrims that is not wearing the bracelets.  
+
+No need for the seller to purchase or prepare and IT infrastructure to proceed with a smart payments, only using the simple and secured Hajji mobile app, he can transfer the amount to his online wallet and also he can charge Hajji smart wallets as well.
+
+## How we built it
+Combining many tools and API's to complete the basic demo, we've used: Google Bigquerry - Android - Python - NFC - GIT - Bitbucket - Adobe Illustrator - Google Cloud - Tray.io
+
+## Challenges we ran into
+Idea developing was the main challenge. It's hard to make a simple low-cost system that doesn't depend on pilgrams technology knowledge level and also collects a big data that may be used by researchers for better enhancements.
+
+## Accomplishments that we're proud of
+Using the same simple solution, we will be able to solve more than one problem using the same infrastructure.
+
+## What's next for A121 - Hajji Smart Solution 
+Finalizing the DEMO 
+
